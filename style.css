@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(217deg, purple, rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, indigo, rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, navy, rgba(0,0,255,0) 70.71%);
+}
+.headshot{
+    font-size: large;
+    width: 100%;
+    margin: 0px;
+}
+#start, #NoOfObjects{
+    font-size: medium;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 55px;
+}
+.copyright-footer{
+    font-size: medium;
+    position: fixed;
+    color: white;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    bottom: 0;
+}
+a{
+    position: fixed;
+    bottom:0;
+    line-height: 2;
+}
